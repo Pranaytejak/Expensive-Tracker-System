@@ -72,4 +72,4 @@ This Expense Tracker System is built using the MERN stack (MongoDB, Express.js, 
 
 
 ## About
-This Expense Tracker App was developed by Ritesh Patil. If you have any questions or concerns, feel free to contact us.
+This Expense Tracker App was developed by PRANAY TEJA KUMMARI. If you have any questions or concerns, feel free to contact us.
